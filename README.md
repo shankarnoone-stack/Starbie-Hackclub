@@ -1,6 +1,6 @@
 ## Starbie
 Starbie is pretty much a desktop mini tamagotchi, and it is motion controlled instead of typical controls.
-![Starbie front render](blob/main/Screenshot%202026-10-11%20191841.png)
+![Starbie front render](main/Screenshot%202026-10-11%20191841.png)
 ## What it is
 
 Starbie is designed to sit on your desk, and reacts to how you control it. 
