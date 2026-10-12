@@ -8,7 +8,9 @@ Starbie is pretty much a desktop mini tamagotchi, and it is motion controlled in
 Starbie is designed to sit on your desk, and reacts to how you control it. 
 
 It has a microcontroller, display, motion sensor, and environmental sensor in a standard PCB. It is also USB powered.
+## Why
 
+To make a dgital pet for your needs at the computer, also for entertainment.
 ## Project status
 
 The default program is a two-eye pet with a tilt-controlled radial menu, hidden stats, and a shake reaction.
