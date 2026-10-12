@@ -13,6 +13,7 @@ The default program is a two-eye pet with a tilt-controlled radial menu, hidden 
 
 ## Repository contents
 
-- `PCB/` - KiCad source files, 
+- KiCad source files, 
   PCB renders
+-Gerber Files
 
