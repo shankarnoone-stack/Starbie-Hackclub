@@ -41,10 +41,6 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 - **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
 - **Total Project Cost:** **$49.63**
 
-## Project status
-
-The PCB design, renders, and an Arduino starter firmware are in here. It is a two-eye pet with a tilt-controlled radial menu, hidden stats, and a shake reaction.
-
 
 ## Repository contents
 
