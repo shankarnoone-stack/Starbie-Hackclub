@@ -6,18 +6,16 @@ I designed the schematic and PCB in KiCad, routed the traces, and exported the f
 
 ![Starbie front render](Screenshot%202026-10-22%20111526.png)
 ![Starbie front render](Screenshot%202026-10-11%20124137.png)
-## What it is
-Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
 ## What it is
 
-Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
+Starbie is designed to sit on your desk and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
-The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components.
+The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered.
 
 ## How?
 
-I started by following the guided Starbie project from [SharKingStudios](https://github.com/SharKingStudios/Starbie ), as this was really similar to my design I was going to build.
+I started by following the guided Starbie project from [SharKingStudios](https://github.com/SharKingStudios/Starbie ), as this was the guide to my design I was going to build.
 After, I set up the schematic with the XIAO ESP32-C3, OLED display, MPU6050, DHT11 sensor, and buttons.
 I also had an error with routing the footprints to the PCB, but then realized that I had to use a diffferent footprint for it to work.
 After this, I routed the traces, and checked it using designs rules checker to make sure that it was ok.
