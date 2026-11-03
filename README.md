@@ -27,16 +27,15 @@ I made it for the week 1 Half Life hackclub challenge, to learn about how to use
 ## BOM.csv
 I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
 | Part | Quantity | Price | Vendor |
-|---|---|---:|---:|---|
-| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | 1 |$5| Seeed Studio |
-| [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z) | 1 | $6 | Amazon |
-| [10k Resistor](https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW) | 1 | $0.05 |Amazon|
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | 1 | $2.40 | Amazon |
-| [MPU-6050](https://www.amazon.com/dp/B0943SGP34) | 1 | $2.29 | Amazon |
-| [DHT11](https://www.amazon.com/dp/B0BLG7R99R)  | 1 | $3.33 | Amazon |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | 4 | $0.72 | Amazon |
-| [PCB Fabrication](https://jlcpcb.com/) | 1 | $8.40 | JLCPCB |
-
+| :--- | :---: | :---: | :--- |
+| [XIAO ESP32-C3](https://seeedstudio.com) | 1 | \$5 | Seeed Studio |
+| [0.96-inch OLED Display](https://amazon.com) | 1 | \$6 | Amazon |
+| [10k Resistor](https://amazon.com) | 1 | \$0.05 | Amazon |
+| [Keycaps](https://amazon.com) | 1 | \$2.40 | Amazon |
+| [MPU-6050](https://amazon.com) | 1 | \$2.29 | Amazon |
+| [DHT11](https://amazon.com) | 1 | \$3.33 | Amazon |
+| [MX Switches](https://amazon.com) | 4 | \$0.72 | Amazon |
+| [PCB Fabrication](https://jlcpcb.com) | 1 | \$8.40 | JLCPCB |
 - **Parts Subtotal:** 28.19
 - **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
 - **Total Project Cost:** **$49.63**
