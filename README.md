@@ -26,16 +26,16 @@ I made it for the week 1 Half Life hackclub challenge, to learn about how to use
 
 ## BOM.csv
 I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
-| Part | What it is used for | Quantity | Price | Vendor |
+| Part | Quantity | Price | Vendor |
 |---|---|---:|---:|---|
-| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main microcontroller and Wi-Fi | 1 |$5| Seeed Studio |
-| [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z) | Displays pet status and sensor readings | 1 | $6 | Amazon |
-| [10k Resistor](https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW) | 6DOF Motion and gyroscope sensor | 1 | $0.05 |Amazon|
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | Temperature and humidity monitoring | 1 | $2.40 | Amazon |
-| [MPU-6050](https://www.amazon.com/dp/B0943SGP34) | Mechanical user input switches | 1 | $2.29 | Amazon |
-| [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Clear dual-layer customizable keycap shell | 1 | $3.33 | Amazon |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | Switches | 4 | $0.72 | Amazon |
-| [PCB Fabrication](https://jlcpcb.com/) | Custom circuit board manufacturing | 1 | $8.40 | JLCPCB |
+| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | 1 |$5| Seeed Studio |
+| [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z) | 1 | $6 | Amazon |
+| [10k Resistor](https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW) | 1 | $0.05 |Amazon|
+| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | 1 | $2.40 | Amazon |
+| [MPU-6050](https://www.amazon.com/dp/B0943SGP34) | 1 | $2.29 | Amazon |
+| [DHT11](https://www.amazon.com/dp/B0BLG7R99R)  | 1 | $3.33 | Amazon |
+| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | 4 | $0.72 | Amazon |
+| [PCB Fabrication](https://jlcpcb.com/) | 1 | $8.40 | JLCPCB |
 
 - **Parts Subtotal:** 28.19
 - **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
