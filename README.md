@@ -24,7 +24,7 @@ I finally exported the fabrication files and BOM.
 I made it for the Week 1 Half Life hackclub challenge, to learn about how to use KiCad and build a PCB and Schematic.
 
 ## Firmware
-For my code, I added a sparkle trail and added a blinking animation on top of the starter code in Arduino IDE.
+For my code, I first thought of Micropython, but I realized that Arduino IDE was more integrated into Starbie and the guide. Because of this, I first installed the libraries, and added the starter code into my project. After this, I added a sparkle trail and added a blinking animation on top of the starter code as my changes.
 ## BOM.csv
 I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
 | Part| Quantity | Price | Vendor |
