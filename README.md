@@ -24,8 +24,10 @@ I finally exported the fabrication files and BOM.
 ## Why?
 I made it for the Week 1 Half Life hackclub challenge, to learn about how to use KiCad and build a PCB and Schematic.
 
+## Firmware
+For my code, I added a sparkle trail and added a blinking animation on top of the starter code in Arduino IDE.
 ## BOM.csv
-I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
+I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
 | Part| Quantity | Price | Vendor |
 |---|---:|---:|---|
 | [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)| 1 |$5| Seeed Studio |
@@ -40,7 +42,6 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 - **Parts Subtotal:** 28.19
 - **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
 - **Total Project Cost:** **$49.63**
-
 
 ## Repository contents
 
