@@ -1,7 +1,7 @@
 ## Starbie
 Starbie is a small virtual pet PCB made with a XIAO ESP32-C3. It uses a 0.96-inch OLED screen to show an animated pet menus and different stats. The project also has two buttons, an MPU6050 motion sensor, and a DHT11 temperature and humidity sensor.
 
-I designed the schematic and PCB in KiCad, routed the traces, and exported the fabrication files. This is my Week 1 PCB project for Hack Club Half Life.
+I designed the schematic and PCB in KiCad, routed the traces, and exported the fabrication files.  I also wrote the Arduino IDE code for this project. This is my Week 1 PCB project for Hack Club Half Life.
 
 
 ![Starbie front render](Screenshot%202026-10-22%20111526.png)
@@ -67,18 +67,6 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 4 | $0.72 | Amazon |
 | [PCB Fabrication](https://jlcpcb.com/)| 1 | $8.40 | JLCPCB |
 
-- **Parts Subtotal:** 28.19
-- **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
-- **Total Project Cost:** **$49.63**
-
-
-## Repository contents
-
-- KiCad source files and fabrication exports
-- PCB renders
-- Arduino
-- BOM
-- Gerber files
 - **Parts Subtotal:** 28.19
 - **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
 - **Total Project Cost:** **$49.63**
