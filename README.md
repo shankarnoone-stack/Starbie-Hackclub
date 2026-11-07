@@ -5,6 +5,7 @@ I designed the schematic and PCB in KiCad, routed the traces, and exported the f
 
 
 ![Starbie front render](Screenshot%202026-10-22%20111526.png)
+This is the PCB.
 ![Starbie front render](Screenshot%202026-10-11%20124137.png)
 
 ## What it is
