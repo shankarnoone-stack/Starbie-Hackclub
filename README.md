@@ -45,7 +45,6 @@ I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 ## Repository contents
 
 - KiCad source files and fabrication exports
-- PCB renders
-- Arduino
+- PCB and Schematic
+- Arduino Firmware
 - BOM
-- Gerber files
