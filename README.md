@@ -3,8 +3,8 @@ Starbie is a small virtual pet PCB made with a XIAO ESP32-C3. It uses a 0.96-inc
 
 I designed the schematic and PCB in KiCad, routed the traces, and exported the fabrication files.  I also wrote the Arduino IDE code for this project. This is my Week 1 PCB project for Hack Club Half Life.
 
-![Starbie front render](Screenshot%202026-10-22%20111526.png)
-![Starbie front render](Screenshot%202026-10-11%20124137.png)
+![Starbie PCB render](Screenshot%202026-11-16%20182200.png)
+![Starbie Schematic render](Screenshot%202026-10-11%20124137.png)
 
 ## What it is
 
