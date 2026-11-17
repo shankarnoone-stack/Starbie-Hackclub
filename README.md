@@ -28,17 +28,18 @@ I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | Part| Quantity | Price | Vendor |
 |---|---:|---:|---|
 | [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)| 1 |$5.99| Seeed Studio |
-| [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z)| 1 | $6 | Amazon |
-| [10k Resistor](https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW)| 1 | $0.05 |Amazon|
+| [0.96-inch OLED Display](https://www.amazon.com/dp/B0GBWXTR1Z)| 1 | $6 | Amazon |
+| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW)| 1 | $4.97 |Amazon|
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY)| 1 | $2.40 | Amazon |
 | [MPU-6050](https://www.amazon.com/dp/B0943SGP34)| 1 | $2.29 | Amazon |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | 1 | $3.33 | Amazon |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 4 | $0.72 | Amazon |
+| [MX Switches](https://www.amazon.com/dp/B0HJTDYGGR)| 1 | $4.99 | Amazon |
 | [PCB Fabrication](https://jlcpcb.com/)| 1 | $8.40 | JLCPCB |
+| [Soldering Iron](https://www.amazon.com/dp/B08PZBPXLZ)| 1 | $9.98 | Amazon |
 
-- **Parts Subtotal:** 28.19
-- **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
-- **Total Project Cost:** **$49.63**
+- **Parts Subtotal:** $48.35
+- **Tax & Shipping:** $15.25 (Including PCB manufacturing shipping/taxes)
+- **Total Project Cost:** **$63.60**
 
 ## Repository contents
 
