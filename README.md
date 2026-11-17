@@ -5,6 +5,7 @@ I designed the schematic and PCB in KiCad, routed the traces, and exported the f
 
 ![Starbie PCB render](Screenshot%202026-11-16%20182200.png)
 ![Starbie Schematic render](Screenshot%202026-10-11%20124137.png)
+![Starbie 3D render](Screenshot%202026-11-16%20192042.png)
 
 ## What it is
 
@@ -26,7 +27,7 @@ This project was created for Fallen by HackClub, as I wanted to create a hardwar
 I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
 | Part| Quantity | Price | Vendor |
 |---|---:|---:|---|
-| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)| 1 |$5| Seeed Studio |
+| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)| 1 |$5.99| Seeed Studio |
 | [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z)| 1 | $6 | Amazon |
 | [10k Resistor](https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW)| 1 | $0.05 |Amazon|
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY)| 1 | $2.40 | Amazon |
