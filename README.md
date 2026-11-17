@@ -19,6 +19,8 @@ After, I set up the schematic with the XIAO ESP32-C3, OLED display, MPU6050, DHT
 I also had an error with routing the footprints to the PCB, but then realized that I had to use a diffferent footprint for it to work.
 After this, I routed the traces, and checked it using designs rules checker to make sure that it was ok.
 I finally exported the fabrication files and BOM.
+## Why?
+This project was created for Fallen by HackClub, as I wanted to create a hardware project that had a motion sensor.
 
 ## BOM.csv
 I looked towards Amazon for my parts, and used JLCPCB for my PCB vendor. For my microcontroller, I first thought of aliexpress, but then I realized it was better to go with Seeed Studio.
